@@ -6,6 +6,12 @@ This webpage (and readme) is built with the template from [NeRFies](https://gith
 
 If you find FaceFolds useful for your work please cite:
 ```
+@article{medin2024facefolds,
+  author    = {Medin, Safa C. and Li, Gengyan and Du, Ruofei and Garbin, Stephan and Davidson, Philip and Wornell, Gregory W. and Beeler, Thabo and Meka, Abhimitra},
+  title     = {FaceFolds: Meshed Radiance Manifolds for Efficient Volumetric Rendering of Dynamic Faces},
+  journal   = {Proceedings of the ACM in Computer Graphics and Interactive Techniques},
+  year      = {2024},
+}
 ```
 
 # Website License
